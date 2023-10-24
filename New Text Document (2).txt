@@ -1,0 +1,16 @@
+http://10.16.100.213:8080/hls/BanglaVision.m3u8
+http://10.16.100.213:8080/hls/news24hd.m3u8
+http://10.16.100.206:8080/hls/somoytv.m3u8
+http://10.16.100.206:8080/hls/channel24.m3u8
+http://10.16.100.213:8080/hls/boishakhi.m3u8
+http://10.16.100.213:8080/hls/gaanBanglahd.m3u8
+http://10.16.100.212:8080/hls/PtvSports.m3u8
+http://10.16.100.213:8080/hls/channeli.m3u8
+http://10.16.100.206:8080/hls/channel9.m3u8
+http://10.16.100.212:8080/hls/PtvSports.m3u8
+http://10.16.100.211:8080/hls/tsports.m3u8
+
+http://10.16.100.212:8080/hls/tsports.m3u8
+http://10.16.100.213:8080/hls/tsports.m3u8
+http://10.16.100.214:8080/hls/tsports.m3u8
+http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
