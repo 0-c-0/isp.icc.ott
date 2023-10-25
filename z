@@ -4,7 +4,7 @@
 http://10.16.100.213:8080/hls/BanglaVision.m3u8
 #EXTINF:-2 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://10.16.100.213:8080/hls/news24hd.m3u8
-#EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+#EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png” group-title=”Bangla”, NTV
 http://10.16.100.206:8080/hls/somoytv.m3u8
 #EXTINF:-4 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://10.16.100.206:8080/hls/channel24.m3u8
