@@ -31,3 +31,5 @@ http://10.16.100.213:8080/hls/tsports.m3u8
 http://10.16.100.214:8080/hls/tsports.m3u8
 #EXTINF:-15 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
 http://10.16.100.206:8080/hls/StarsportsSelect1hd.m3u8
+#EXTINF:-16 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/512px-Nickelodeon_2023_logo_%28outline%29.svg.png” group-title=”Bangla”, Nick
+https://freeiptv25.bdiptv24.repl.co/live/bdix3/app/NickBangla.m3u8
